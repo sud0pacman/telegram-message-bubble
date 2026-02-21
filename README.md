@@ -1,17 +1,17 @@
 # telegram_message_bubble_demo
 
-A new Flutter project.
+Telegramdagi messageboxni yasashga harakat qilganimda ko'p qiynaldim. U yerda bir nechta qadamlar qoyilmaqom tarzda
+bajarilgan edi.
 
-## Getting Started
+-- Agar xabar qisqa bo'lsa xabar va vaqt bir qatorda 
+-- Agar xabar uzun bo'lib qatorda joy qolmasa vaqt alohida qatorda
+-- Agar xabar uzun bo'lib oxirgi qatorda vaqt uchun joy qolsa vaqt o'sha oxirgi qatorda
+-- Vaqt doim o'ng taraf qatorning oxirida va asosiy kontentdan biroz pastroqda
 
-This project is a starting point for a Flutter application.
+Ushbu shartni qanoatlantiradigan holatga olib kelish oson bo'lmadi.
 
-A few resources to get you started if this is your first Flutter project:
+Foydalaning
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Chat UI](assets/screenshots/chat_ui.png)
