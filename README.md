@@ -1,4 +1,4 @@
-# telegram_message_bubble_demo
+# Telegram message bubble demo
 
 Telegramdagi messageboxni yasashga harakat qilganimda koʻp qiynaldim. U yerda bir nechta qadamlar qoyilmaqom tarzda
 bajarilgan edi.
